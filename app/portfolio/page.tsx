@@ -41,7 +41,7 @@ export default function Home() {
 
           {/* Link to Phase 2 Project Slide Deck */}
           <Link
-            href="/Portfolio milestone 14.pdf"
+            href="/Mudatinya Charles' Portfolio.pdf"
             download
             className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg text-lg font-semibold transition"
           >

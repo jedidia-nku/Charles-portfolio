@@ -16,7 +16,7 @@ const Home = () => {
         <div className="w-full md:w-1/2">
         <div className="mx-auto">
           <Image
-            src="/j.d'amour.jpeg" // Replace with your image path
+            src="Charles' profile.jpeg" // Replace with your image path
             alt="Jedidia Nkunzumwami"
             width={400}
             height={400}
